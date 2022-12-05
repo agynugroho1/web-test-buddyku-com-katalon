@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User fill field email with personal email</description>
+   <name>TC_fill_email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>edd6c9b8-63f8-4e83-93db-a6da4f9bd60c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>d5b51892-2684-4f7e-a625-eea2a52787c0</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>''</defaultValue>
+      <description></description>
+      <id>d5b51892-2684-4f7e-a625-eea2a52787c0</id>
+      <masked>false</masked>
+      <name>email</name>
+   </variable>
+</TestCaseEntity>

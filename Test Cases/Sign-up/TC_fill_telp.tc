@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User fill number phone with personal number phone</description>
+   <name>TC_fill_telp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>14af2040-7fce-4b35-b0dc-bb5ffbb517d0</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>dca601ed-41f9-4bbc-b329-0f6ae21e8b81</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'081212345678'</defaultValue>
+      <description></description>
+      <id>dca601ed-41f9-4bbc-b329-0f6ae21e8b81</id>
+      <masked>false</masked>
+      <name>telp</name>
+   </variable>
+</TestCaseEntity>

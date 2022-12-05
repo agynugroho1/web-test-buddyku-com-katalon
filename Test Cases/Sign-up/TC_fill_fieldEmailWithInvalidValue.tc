@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User fill email with invalid value (not email)</description>
+   <name>TC_fill_fieldEmailWithInvalidValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>6898033d-eea7-4888-838c-46d7d0f5acde</testCaseGuid>
+</TestCaseEntity>

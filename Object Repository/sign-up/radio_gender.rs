@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>radio_gender</name>
+   <tag></tag>
+   <elementGuidId>a9f07c0d-5095-4593-a346-108801b00f3d</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='gender']//child::*[contains(text(),'${gender}')]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='gender']//child::*[contains(text(),'${gender}')]</value>
+      <webElementGuid>cc223d58-43ad-4391-985f-2a9601337fda</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

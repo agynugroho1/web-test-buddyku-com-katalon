@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User choose gender</description>
+   <name>TC_choose_gender</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>4f39a0cf-22a3-4ba3-a6c0-36413f338e8c</testCaseGuid>
+   <variableLinks>
+      <testDataLinkId></testDataLinkId>
+      <type>DEFAULT</type>
+      <value></value>
+      <variableId>9b82c5b3-7bd3-4174-ba4b-cea170077068</variableId>
+   </variableLinks>
+   <variable>
+      <defaultValue>'Male'</defaultValue>
+      <description></description>
+      <id>9b82c5b3-7bd3-4174-ba4b-cea170077068</id>
+      <masked>false</masked>
+      <name>gender</name>
+   </variable>
+</TestCaseEntity>

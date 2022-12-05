@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_email</name>
+   <tag></tag>
+   <elementGuidId>f1d23403-bd49-4fbb-8c45-4e936a0a8711</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//form//child::*[@type='email']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//form//child::*[@type='email']</value>
+      <webElementGuid>99b5addb-dc67-45bf-bd27-1b1f9b2c7d57</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

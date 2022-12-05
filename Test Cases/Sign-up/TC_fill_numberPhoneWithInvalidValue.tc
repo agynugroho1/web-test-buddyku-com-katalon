@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User fill number phone with alphabet</description>
+   <name>TC_fill_numberPhoneWithInvalidValue</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>7433e867-8efa-4c05-9e28-4fb2ab5c524b</testCaseGuid>
+</TestCaseEntity>

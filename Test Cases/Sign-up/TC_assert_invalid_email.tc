@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert invalid email is visible</description>
+   <name>TC_assert_invalid_email</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>391699cb-1535-4c6a-a030-6dbd09e07d7b</testCaseGuid>
+</TestCaseEntity>

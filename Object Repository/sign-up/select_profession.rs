@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_profession</name>
+   <tag></tag>
+   <elementGuidId>9859c932-73e9-4d31-9b88-6d64c399e7ab</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='profession']//child::select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='profession']//child::select</value>
+      <webElementGuid>d5274887-89b6-453f-88b5-3b179f7b5e28</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

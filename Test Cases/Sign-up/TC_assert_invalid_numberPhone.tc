@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>Assert alert invalid number phone appear</description>
+   <name>TC_assert_invalid_numberPhone</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bb0cf730-8efe-40c1-b4df-ba08f6f703d3</testCaseGuid>
+</TestCaseEntity>

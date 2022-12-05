@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click sign up button in home page buddyku.com</description>
+   <name>TC_click_signUp</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ecadf6df-4591-4827-8044-bf23db411ea1</testCaseGuid>
+</TestCaseEntity>

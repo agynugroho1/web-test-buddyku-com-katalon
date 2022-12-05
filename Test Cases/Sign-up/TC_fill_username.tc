@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User filled username</description>
+   <name>TC_fill_username</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>d2057d71-5adc-4164-8c08-53fe30a92f3d</testCaseGuid>
+</TestCaseEntity>

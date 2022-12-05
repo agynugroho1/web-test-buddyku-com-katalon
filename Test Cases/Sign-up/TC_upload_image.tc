@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User uplaod image</description>
+   <name>TC_upload_image</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>0284f6d2-2cf4-4fd4-98ba-fe38bdfbb5c1</testCaseGuid>
+</TestCaseEntity>

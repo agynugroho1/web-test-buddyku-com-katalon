@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User click later for verification email</description>
+   <name>TC_click_later</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>ac586c28-6b0e-4e08-b559-bf26d80083c2</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>select_region</name>
+   <tag></tag>
+   <elementGuidId>f8b90fe9-31bf-498e-b8fc-4adc849eae42</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@id='region']//child::select</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@id='region']//child::select</value>
+      <webElementGuid>4522c435-3fc1-4c1c-8463-a8ab964f8847</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

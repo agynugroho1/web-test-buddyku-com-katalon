@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>cbx_agreement</name>
+   <tag></tag>
+   <elementGuidId>090d8392-1d66-40dc-9080-d12e76804f06</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@for='checkbox-1']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@for='checkbox-1']</value>
+      <webElementGuid>d4985d03-7624-4953-95a7-cea14dd09187</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

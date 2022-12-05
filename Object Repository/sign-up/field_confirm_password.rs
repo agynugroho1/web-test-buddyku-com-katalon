@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>field_confirm_password</name>
+   <tag></tag>
+   <elementGuidId>aca540e0-773e-42a7-8971-590655a5245b</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>(//form//child::*[@type='password'])[2]</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>(//form//child::*[@type='password'])[2]</value>
+      <webElementGuid>c9ce828e-ec8c-4871-80d3-ac4323c8e3e8</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

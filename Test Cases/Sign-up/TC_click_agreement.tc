@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>User accepted the agreement</description>
+   <name>TC_click_agreement</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>fdb57be9-c1be-4f3d-9cf8-465f809a6294</testCaseGuid>
+</TestCaseEntity>

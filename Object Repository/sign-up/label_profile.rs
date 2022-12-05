@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>label_profile</name>
+   <tag></tag>
+   <elementGuidId>3ee36d8a-3969-4e62-8de1-b0cfe9f429ef</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[@role='menuitem']//child::div//child::p</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[@role='menuitem']//child::div//child::p</value>
+      <webElementGuid>8872101c-89f9-4f9e-a6a7-00bfdb755db0</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>

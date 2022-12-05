@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<WebElementEntity>
+   <description></description>
+   <name>upload_image</name>
+   <tag></tag>
+   <elementGuidId>787c5302-5af0-4061-af41-e46a5bca166a</elementGuidId>
+   <selectorCollection>
+      <entry>
+         <key>BASIC</key>
+         <value>//*[contains(@id,'BVID')]//child::*[@type='file']</value>
+      </entry>
+   </selectorCollection>
+   <selectorMethod>BASIC</selectorMethod>
+   <useRalativeImagePath>false</useRalativeImagePath>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>//*[contains(@id,'BVID')]//child::*[@type='file']</value>
+      <webElementGuid>c4a3b763-6bdc-42a5-89ec-e1eb9f0d12ab</webElementGuid>
+   </webElementProperties>
+</WebElementEntity>
